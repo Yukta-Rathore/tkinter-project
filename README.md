@@ -11,3 +11,6 @@ The application provides options for the registration and then login.
 <p>After registering it provides options to deposit and withdraw money as well as lets us check our balance by retrieving information from database.</p>
 <br>
 It also allows us to change password.
+<br>
+Images used in the project are:<br>
+![Bank logo](https://github.com/Yukta-Rathore/tkinter-project/assets/115420969/11e3f386-e974-4d91-8820-18b92b61a960)
