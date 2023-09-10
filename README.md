@@ -13,4 +13,4 @@ The application provides options for the registration and then login.
 It also allows us to change password.
 <br>
 Images used in the project are:<br>
-![Bank logo](https://github.com/Yukta-Rathore/tkinter-project/assets/115420969/11e3f386-e974-4d91-8820-18b92b61a960)
+!(https://github.com/Yukta-Rathore/tkinter-project/assets/115420969/11e3f386-e974-4d91-8820-18b92b61a960)
